@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 1096
     height: 673
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 12}
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 133
+  controlID: 29
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 32
+  controlID: 103
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 33
+  controlID: 104
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -476,9 +476,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8c260000
       m_LastClickedID: 0
-      m_ExpandedIDs: f0e2ffff00e3ffff0ae3ffff10e3ffff2ce3ffff34e3ffff3ee3ffff30efffff3aefffff4aefffff52efffff7aefffffeaf0ffff
+      m_ExpandedIDs: 54f9ffffd4fbffff6828000090280000ec280000202900006e290000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -645,20 +645,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/ExampleAssets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 53
   m_LastFolders:
-  - Assets
+  - Assets/ExampleAssets/Sprites
   m_LastFoldersGridSize: 53
-  m_LastProjectPath: C:\All\Packages\WindowsController_Unity
+  m_LastProjectPath: C:\All\Packages\WindowsController
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 002e0000
-    m_LastClickedID: 11776
-    m_ExpandedIDs: 00000000002e00007c30000082360000e6360000ec360000b638000000ca9a3b
+    m_SelectedIDs: da270000
+    m_LastClickedID: 10202
+    m_ExpandedIDs: 00000000fe2500000826000024270000f0290000f2290000f4290000f629000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -686,7 +686,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000fe25000008260000f0290000f2290000f4290000f6290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
